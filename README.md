@@ -1,0 +1,2 @@
+# autochess-rl
+reinforcement learning
