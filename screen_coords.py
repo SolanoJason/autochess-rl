@@ -19,7 +19,7 @@ PLAYERS_HEALTH_POS: list[Vec4] = [
 ]
 
 PLAYER_NAME_POS = Vec4(GameWindow(110, 8, 200, 30))
-PLAYER_HEALTH_POS = Vec4(GameWindow(170, 35, 250, 55))
+PLAYER_HEALTH_POS = Vec4(GameWindow(172, 35, 215, 59))
 
 # We have 8 pieces in auto chess
 BENCH_HEALTH_POS: list[Vec4] = [
@@ -45,9 +45,15 @@ CHAMPIONS_NAME_POS = [
     Vec4(GameWindow(870, 0, 1080, 35)),
 ]
 
+ITEMS_POS = [
+    Vec4(GameWindow(320, 540, 440, 580)),
+    Vec4(GameWindow(735, 540, 855, 580)),
+    Vec4(GameWindow(1155, 540, 1275, 580)),
+]
+
 GOLD_POS: Vec4 = Vec4(GameWindow(1320, 10, 1368, 50))
 
-LEVEL_POS: Vec4 = Vec4(GameWindow(135, 800, 220, 830))
+LEVEL_POS: Vec4 = Vec4(GameWindow(178, 800, 220, 830))
 
 HOME: Vec2 = Vec2(1360, 720)
 

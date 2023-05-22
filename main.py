@@ -11,33 +11,31 @@ from PIL import ImageGrab, Image
 from time import sleep
 import pyautogui
 
-def game_loop(ui_queue: multiprocessing.Queue) -> None:
+def game_loop() -> None:
     """Mantiene el programa ejecutándose indefinidamente llamando a la cola y al inicio del juego en un bucle"""
 
     logo = Image.open('Photos/logo.png')
     box = pyautogui.locateOnScreen(logo, confidence=0.6)
     vec2 = pyautogui.center(box)
     pyautogui.click(vec2)
-    sleep(5)
+    sleep(3)
 
     left_click(screen_coords.HOME.get_coords())
-    sleep(2)
+    sleep(1)
     left_click(screen_coords.CUSTOM.get_coords())
-    sleep(2)
+    sleep(1)
     left_click(screen_coords.CREATE1.get_coords())
-    sleep(2)
+    sleep(1)
     left_click(screen_coords.CREATE2.get_coords())
-    sleep(2)
+    sleep(1)
     for _ in range(7):
         left_click(screen_coords.ADD_BOT.get_coords())
-        sleep(1)
+        sleep(0.5)
     left_click(screen_coords.START.get_coords())
 
     while True:
-        Game(ui_queue)
+        Game()
 
 
 if __name__ == "__main__":
-    message_queue = multiprocessing.Queue()
-    game_thread = multiprocessing.Process(target=game_loop, args=(message_queue,))
-    game_thread.start()
+    game_loop()
