@@ -33,8 +33,7 @@ def game_loop() -> None:
         sleep(0.5)
     left_click(screen_coords.START.get_coords())
 
-    while True:
-        Game()
+    Game()
 
 
 if __name__ == "__main__":

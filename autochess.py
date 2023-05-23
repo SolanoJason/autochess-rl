@@ -2,7 +2,7 @@ json = {
   "personajes": [
     {
       "name": "Redaxe Chief",
-      "PV": 700,
+      "pv": 700,
       "atk": 52,
       "atk_speed": 1.5,
       "armor": 5,
@@ -11,11 +11,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Cave Clan",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Tusk Champion",
-      "PV": 650,
+      "pv": 650,
       "atk": 52,
       "atk_speed": 1.2,
       "armor": 5,
@@ -24,11 +24,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Beast",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Unicorn",
-      "PV": 400,
+      "pv": 400,
       "atk": 55,
       "atk_speed": 1.5,
       "armor": 5,
@@ -37,11 +37,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Beast",
-      "class": ["Druid"]
+      "classes": ["Druid"]
     },
     {
       "name": "Frost Knight",
-      "PV": 500,
+      "pv": 500,
       "atk": 47,
       "atk_speed": 1.3,
       "armor": 5,
@@ -50,11 +50,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Glacier",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Defector",
-      "PV": 550,
+      "pv": 550,
       "atk": 45,
       "atk_speed": 1.5,
       "armor": 5,
@@ -63,11 +63,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Glacier",
-      "class": ["Shaman"]
+      "classes": ["Shaman"]
     },
     {
       "name": "Resentful Murk",
-      "PV": 500,
+      "pv": 500,
       "atk": 60,
       "atk_speed": 1.3,
       "armor": 2,
@@ -76,11 +76,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Egersis",
-      "class": ["Witcher"]
+      "classes": ["Witcher"]
     },
     {
       "name": "The Source",
-      "PV": 500,
+      "pv": 500,
       "atk": 50,
       "atk_speed": 1.7,
       "armor": 5,
@@ -89,11 +89,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Human",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Winter Chiropteran",
-      "PV": 600,
+      "pv": 600,
       "atk": 47,
       "atk_speed": 1.4,
       "armor": 0,
@@ -102,11 +102,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": ["Dragon", "Egersis"],
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Soul Breaker",
-      "PV": 550,
+      "pv": 550,
       "atk": 60,
       "atk_speed": 1.0,
       "armor": 5,
@@ -115,11 +115,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Goblin",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Sky Breaker",
-      "PV": 700,
+      "pv": 700,
       "atk": 50,
       "atk_speed": 1.4,
       "armor": 5,
@@ -128,11 +128,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Goblin",
-      "class": ["Mech"]
+      "classes": ["Mech"]
     },
     {
       "name": "Heaven Bomber",
-      "PV": 600,
+      "pv": 600,
       "atk": 45,
       "atk_speed": 1.5,
       "armor": 5,
@@ -141,11 +141,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Goblin",
-      "class": ["Mech"]
+      "classes": ["Mech"]
     },
     {
       "name": "Shining Archer",
-      "PV": 450,
+      "pv": 450,
       "atk": 55,
       "atk_speed": 1.0,
       "armor": 0,
@@ -154,11 +154,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Feathered",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Taboo Witcher",
-      "PV": 600,
+      "pv": 600,
       "atk": 50,
       "atk_speed": 1.2,
       "armor": 5,
@@ -167,11 +167,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Feathered",
-      "class": ["Witcher"]
+      "classes": ["Witcher"]
     },
     {
       "name": "Ogre Mage",
-      "PV": 700,
+      "pv": 700,
       "atk": 60,
       "atk_speed": 1.4,
       "armor": 5,
@@ -180,11 +180,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Kira",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Stone Spirit",
-      "PV": 700,
+      "pv": 700,
       "atk": 80,
       "atk_speed": 1.8,
       "armor": 5,
@@ -193,11 +193,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Spirit",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Sunchaser Servant",
-      "PV": 650,
+      "pv": 650,
       "atk": 57,
       "atk_speed": 1.3,
       "armor": 3,
@@ -206,11 +206,11 @@ json = {
       "player_damage":1,
       "cost":1,
       "race": "Horn",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Swordman",
-      "PV": 600,
+      "pv": 600,
       "atk": 67,
       "atk_speed": 1.1,
       "armor": 5,
@@ -219,11 +219,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Cave Clan",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Skull Hunter",
-      "PV": 700,
+      "pv": 700,
       "atk": 65,
       "atk_speed": 1.3,
       "armor": 5,
@@ -232,11 +232,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Cave Clan",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Lava Shaman",
-      "PV": 650,
+      "pv": 650,
       "atk": 57,
       "atk_speed": 1.1,
       "armor": 5,
@@ -245,11 +245,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Cave Clan",
-      "class": ["Shaman"]
+      "classes": ["Shaman"]
     },
     {
       "name": "Desperate Doctor",
-      "PV": 550,
+      "pv": 550,
       "atk": 45,
       "atk_speed": 1.4,
       "armor": 5,
@@ -258,11 +258,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Glacier",
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Egersis Ranger",
-      "PV": 600,
+      "pv": 600,
       "atk": 65,
       "atk_speed": 1.3,
       "armor": 5,
@@ -271,11 +271,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Egersis",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Abyssal Guard",
-      "PV": 650,
+      "pv": 650,
       "atk": 85,
       "atk_speed": 1.2,
       "armor": 5,
@@ -284,11 +284,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Marine",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Abyssalcrawler",
-      "PV": 500,
+      "pv": 500,
       "atk": 60,
       "atk_speed": 1.0,
       "armor": 5,
@@ -297,11 +297,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Marine",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Flame Wizard",
-      "PV": 500,
+      "pv": 500,
       "atk": 50,
       "atk_speed": 1.1,
       "armor": 5,
@@ -310,11 +310,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Human",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Venom",
-      "PV": 500,
+      "pv": 500,
       "atk": 55,
       "atk_speed": 1.0,
       "armor": 5,
@@ -323,11 +323,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Dragon",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Dwarf Sinper",
-      "PV": 450,
+      "pv": 450,
       "atk": 70,
       "atk_speed": 1.0,
       "armor": 5,
@@ -336,11 +336,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Dwarf",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Ripper",
-      "PV": 800,
+      "pv": 800,
       "atk": 57,
       "atk_speed": 1.4,
       "armor": 6,
@@ -349,11 +349,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Goblin",
-      "class": ["Mech"]
+      "classes": ["Mech"]
     },
     {
       "name": "Hell Knight",
-      "PV": 700,
+      "pv": 700,
       "atk": 70,
       "atk_speed": 1.2,
       "armor": 5,
@@ -362,11 +362,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Demon",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Soul Devourer",
-      "PV": 500,
+      "pv": 500,
       "atk": 50,
       "atk_speed": 1.7,
       "armor": 5,
@@ -375,11 +375,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Demon",
-      "class": ["Wizard"]
+      "classes": ["Wizard"]
     },
     {
       "name": "Lightblade Knight",
-      "PV": 500,
+      "pv": 500,
       "atk": 50,
       "atk_speed": 1.3,
       "armor": 5,
@@ -388,11 +388,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Feathered",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Whisper Seer",
-      "PV": 500,
+      "pv": 500,
       "atk": 47,
       "atk_speed": 1.4,
       "armor": 2,
@@ -401,11 +401,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Feathered",
-      "class": ["Druid"]
+      "classes": ["Druid"]
     },
     {
       "name": "Water Spirit",
-      "PV": 550,
+      "pv": 550,
       "atk": 57,
       "atk_speed": 1.3,
       "armor": 5,
@@ -414,11 +414,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Spirit",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Goddess of Light",
-      "PV": 450,
+      "pv": 450,
       "atk": 52,
       "atk_speed": 1.3,
       "armor": 3,
@@ -427,11 +427,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Divinity",
-      "class": ["Priest"]
+      "classes": ["Priest"]
     },
     {
       "name": "Heaven Brew",
-      "PV": 800,
+      "pv": 800,
       "atk": 55,
       "atk_speed": 1.3,
       "armor": 4,
@@ -440,11 +440,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Pandaman",
-      "class": ["Martialist"]
+      "classes": ["Martialist"]
     },
     {
       "name": "Otter Hunter",
-      "PV": 600,
+      "pv": 600,
       "atk": 60,
       "atk_speed": 1.0,
       "armor": 5,
@@ -453,11 +453,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Beast",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Berserker",
-      "PV": 750,
+      "pv": 750,
       "atk": 80,
       "atk_speed": 1.1,
       "armor": 5,
@@ -466,11 +466,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Glacier",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Fortune Teller",
-      "PV": 550,
+      "pv": 550,
       "atk": 62,
       "atk_speed": 1.4,
       "armor": 5,
@@ -479,11 +479,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Glacier",
-      "class": ["Priest"]
+      "classes": ["Priest"]
     },
     {
       "name": "Evil Knight",
-      "PV": 750,
+      "pv": 750,
       "atk": 50,
       "atk_speed": 1.2,
       "armor": 10,
@@ -492,11 +492,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Egersis",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Werewolf",
-      "PV": 750,
+      "pv": 750,
       "atk": 55,
       "atk_speed": 1.1,
       "armor": 5,
@@ -505,11 +505,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": ["Human", "Beast"],
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Argali Knight",
-      "PV": 750,
+      "pv": 750,
       "atk": 55,
       "atk_speed": 1.4,
       "armor": 10,
@@ -518,11 +518,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Human",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Avenge Knight",
-      "PV": 700,
+      "pv": 700,
       "atk": 70,
       "atk_speed": 1.2,
       "armor": 5,
@@ -531,11 +531,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Human",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Umbra",
-      "PV": 800,
+      "pv": 800,
       "atk": 50,
       "atk_speed": 1.5,
       "armor": 5,
@@ -544,11 +544,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": ["Dragon", "Egersis"],
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Shadow Devil",
-      "PV": 650,
+      "pv": 650,
       "atk": 80,
       "atk_speed": 1.1,
       "armor": 5,
@@ -557,11 +557,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Demon",
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Fallen Witcher",
-      "PV": 600,
+      "pv": 600,
       "atk": 70,
       "atk_speed": 1.2,
       "armor": 5,
@@ -570,11 +570,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Demon",
-      "class": ["Witcher"]
+      "classes": ["Witcher"]
     },
     {
       "name": "Wind Ranger",
-      "PV": 600,
+      "pv": 600,
       "atk": 60,
       "atk_speed": 0.9,
       "armor": 5,
@@ -583,11 +583,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Feathered",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Shadowcrawler",
-      "PV": 550,
+      "pv": 550,
       "atk": 90,
       "atk_speed": 1.0,
       "armor": 5,
@@ -596,11 +596,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Feathered",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Shining Dragon",
-      "PV": 650,
+      "pv": 650,
       "atk": 55,
       "atk_speed": 1.7,
       "armor": 5,
@@ -609,11 +609,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": ["Feathered", "Dragon"],
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Warpwood",
-      "PV": 750,
+      "pv": 750,
       "atk": 75,
       "atk_speed": 2.0,
       "armor": 5,
@@ -622,11 +622,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Feathered",
-      "class": ["Druid"]
+      "classes": ["Druid"]
     },
     {
       "name": "Plume Warrior",
-      "PV": 750,
+      "pv": 750,
       "atk": 55,
       "atk_speed": 1.3,
       "armor": 5,
@@ -635,11 +635,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Feathered",
-      "class": ["Martialist"]
+      "classes": ["Martialist"]
     },
     {
       "name": "Thunder Spirit",
-      "PV": 750,
+      "pv": 750,
       "atk": 55,
       "atk_speed": 1.1,
       "armor": 5,
@@ -648,11 +648,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Spirit",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "God of War",
-      "PV": 800,
+      "pv": 800,
       "atk": 0,
       "atk_speed": 0.0,
       "armor": 6,
@@ -661,11 +661,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Divinity",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Grand Herald",
-      "PV": 600,
+      "pv": 600,
       "atk": 55,
       "atk_speed": 1.4,
       "armor": 5,
@@ -674,11 +674,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Divinity",
-      "class": ["Wizard"]
+      "classes": ["Wizard"]
     },
     {
       "name": "Lord of Sand",
-      "PV": 600,
+      "pv": 600,
       "atk": 52,
       "atk_speed": 1.4,
       "armor": 10,
@@ -687,11 +687,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Insectoid",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Poisnous Worm",
-      "PV": 600,
+      "pv": 600,
       "atk": 55,
       "atk_speed": 1.2,
       "armor": 0,
@@ -700,11 +700,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": ["Insectoid", "Beast"],
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Ember Blade",
-      "PV": 800,
+      "pv": 800,
       "atk": 75,
       "atk_speed": 1.2,
       "armor": 5,
@@ -713,11 +713,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Pandaman",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Thunder Trace",
-      "PV": 700,
+      "pv": 700,
       "atk": 75,
       "atk_speed": 1.5,
       "armor": 3,
@@ -726,11 +726,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Pandaman",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Jade General",
-      "PV": 800,
+      "pv": 800,
       "atk": 65,
       "atk_speed": 1.5,
       "armor": 9,
@@ -739,11 +739,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Pandaman",
-      "class": ["Shaman"]
+      "classes": ["Shaman"]
     },
     {
       "name": "Dualplot",
-      "PV": 850,
+      "pv": 850,
       "atk": 60,
       "atk_speed": 1.1,
       "armor": 10,
@@ -752,11 +752,11 @@ json = {
       "player_damage":1,
       "cost":2,
       "race": "Pandaman",
-      "class": ["Martialist"]
+      "classes": ["Martialist"]
     },
     {
       "name": "Gem Artisan",
-      "PV": 800,
+      "pv": 800,
       "atk": 55,
       "atk_speed": 1.0,
       "armor": 6,
@@ -765,11 +765,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Civet",
-      "class": ["Mech"]
+      "classes": ["Mech"]
     },
     {
       "name": "Dominator",
-      "PV": 700,
+      "pv": 700,
       "atk": 70,
       "atk_speed": 1.1,
       "armor": 5,
@@ -778,11 +778,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "the Greater",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Ghost Kid",
-      "PV": 850,
+      "pv": 850,
       "atk": 90,
       "atk_speed": 1.5,
       "armor": 5,
@@ -791,11 +791,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Soul Clan",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Nightmare",
-      "PV": 750,
+      "pv": 750,
       "atk": 55,
       "atk_speed": 1.4,
       "armor": 5,
@@ -804,11 +804,11 @@ json = {
       "player_damage":1,
       "cost":3,
       "race": "Soul Clan",
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Storm Shaman",
-      "PV": 800,
+      "pv": 800,
       "atk": 47,
       "atk_speed": 1.5,
       "armor": 5,
@@ -817,11 +817,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Cave Clan",
-      "class": ["Shaman"]
+      "classes": ["Shaman"]
     },
     {
       "name": "Cave Prodigy",
-      "PV": 800,
+      "pv": 800,
       "atk": 50,
       "atk_speed": 1.4,
       "armor": 6,
@@ -830,11 +830,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Cave Clan",
-      "class": ["Priest"]
+      "classes": ["Priest"]
     },
     {
       "name": "Redfox Swordsman",
-      "PV": 750,
+      "pv": 750,
       "atk": 80,
       "atk_speed": 1.0,
       "armor": 8,
@@ -843,11 +843,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Beast",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Razorclaw",
-      "PV": 800,
+      "pv": 800,
       "atk": 55,
       "atk_speed": 1.3,
       "armor": 0,
@@ -856,11 +856,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Beast",
-      "class": ["Druid"]
+      "classes": ["Druid"]
     },
     {
       "name": "Soul Reaper",
-      "PV": 800,
+      "pv": 800,
       "atk": 55,
       "atk_speed": 1.2,
       "armor": 5,
@@ -869,11 +869,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Egersis",
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Siren",
-      "PV": 750,
+      "pv": 750,
       "atk": 60,
       "atk_speed": 1.2,
       "armor": 5,
@@ -882,11 +882,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Marine",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Pirate Captain",
-      "PV": 950,
+      "pv": 950,
       "atk": 82,
       "atk_speed": 1.3,
       "armor": 8,
@@ -895,11 +895,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Human",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Dragon Knight",
-      "PV": 800,
+      "pv": 800,
       "atk": 65,
       "atk_speed": 1.2,
       "armor": 10,
@@ -908,11 +908,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": ["Human", "Dragon"],
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Tortola Elder",
-      "PV": 650,
+      "pv": 650,
       "atk": 42,
       "atk_speed": 1.5,
       "armor": 5,
@@ -921,11 +921,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Human",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Venomancer",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 65,
       "atk_speed": 1.3,
       "armor": 5,
@@ -934,11 +934,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": ["Goblin", "Kira"],
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Doom Arbiter",
-      "PV": 950,
+      "pv": 950,
       "atk": 105,
       "atk_speed": 1.3,
       "armor": 5,
@@ -947,11 +947,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Demon",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Grimtouch",
-      "PV": 750,
+      "pv": 750,
       "atk": 80,
       "atk_speed": 1.4,
       "armor": 5,
@@ -960,11 +960,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Demon",
-      "class": ["Wizard"]
+      "classes": ["Wizard"]
     },
     {
       "name": "Fire Spirit",
-      "PV": 800,
+      "pv": 800,
       "atk": 45,
       "atk_speed": 1.3,
       "armor": 5,
@@ -973,11 +973,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Spirit",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Spider Queen",
-      "PV": 900,
+      "pv": 900,
       "atk": 95,
       "atk_speed": 1.2,
       "armor": 5,
@@ -986,11 +986,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Insectoid",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Thorn Predator",
-      "PV": 800,
+      "pv": 800,
       "atk": 67,
       "atk_speed": 1.3,
       "armor": 10,
@@ -999,11 +999,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": ["Insectoid", "Egersis"],
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Sunchaser Shaman",
-      "PV": 700,
+      "pv": 700,
       "atk": 67,
       "atk_speed": 1.3,
       "armor": 10,
@@ -1012,11 +1012,11 @@ json = {
       "player_damage":2,
       "cost":4,
       "race": "Horn",
-      "class": ["Shaman"]
+      "classes": ["Shaman"]
     },
     {
       "name": "Bad Omen",
-      "PV": 900,
+      "pv": 900,
       "atk": 90,
       "atk_speed": 1.5,
       "armor": 6,
@@ -1025,11 +1025,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Cave Clan",
-      "class": ["Foreteller"]
+      "classes": ["Foreteller"]
     },
     {
       "name": "Space Walker",
-      "PV": 1100,
+      "pv": 1100,
       "atk": 112,
       "atk_speed": 1.0,
       "armor": 10,
@@ -1038,11 +1038,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Beast",
-      "class": ["Martialist"]
+      "classes": ["Martialist"]
     },
     {
       "name": "Sacred Lancer",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 90,
       "atk_speed": 1.1,
       "armor": 10,
@@ -1051,11 +1051,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race":"Glacier",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Tsunami Stalker",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 50,
       "atk_speed": 2.0,
       "armor": 5,
@@ -1064,11 +1064,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Marine",
-      "class": ["Hunter"]
+      "classes": ["Hunter"]
     },
     {
       "name": "Frostblaze Dragon",
-      "PV": 950,
+      "pv": 950,
       "atk": 60,
       "atk_speed": 1.1,
       "armor": 0,
@@ -1077,11 +1077,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Dragon",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Helicopter",
-      "PV": 900,
+      "pv": 900,
       "atk": 77,
       "atk_speed": 0.9,
       "armor": 10,
@@ -1090,11 +1090,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Dwarf",
-      "class": ["Mech"]
+      "classes": ["Mech"]
     },
     {
       "name": "Cannon Granny",
-      "PV": 1100,
+      "pv": 1100,
       "atk": 95,
       "atk_speed": 1.3,
       "armor": 12,
@@ -1103,11 +1103,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Goblin",
-      "class": ["Knight"]
+      "classes": ["Knight"]
     },
     {
       "name": "Devastator",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 50,
       "atk_speed": 1.5,
       "armor": 10,
@@ -1116,11 +1116,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Goblin",
-      "class": ["Mech"]
+      "classes": ["Mech"]
     },
     {
       "name": "Rogue Guard",
-      "PV": 1200,
+      "pv": 1200,
       "atk": 150,
       "atk_speed": 1.3,
       "armor": 10,
@@ -1129,11 +1129,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Demon",
-      "class": ["Warrior"]
+      "classes": ["Warrior"]
     },
     {
       "name": "Phantom Queen",
-      "PV": 950,
+      "pv": 950,
       "atk": 87,
       "atk_speed": 1.2,
       "armor": 6,
@@ -1142,11 +1142,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Demon",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Shining Assassin",
-      "PV": 950,
+      "pv": 950,
       "atk": 105,
       "atk_speed": 1.0,
       "armor": 8,
@@ -1155,11 +1155,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Feathered",
-      "class": ["Assassin"]
+      "classes": ["Assassin"]
     },
     {
       "name": "Stranger Egg",
-      "PV": 700,
+      "pv": 700,
       "atk": 50,
       "atk_speed": 1.3,
       "armor": 0,
@@ -1168,10 +1168,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Feathered",
+      "classes": [],
     },
     {
       "name": "The Scryer",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 82,
       "atk_speed": 1.1,
       "armor": 5,
@@ -1180,11 +1181,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Feathered",
-      "class": ["Shaman"]
+      "classes": ["Shaman"]
     },
     {
       "name": "Dark Spirit",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 50,
       "atk_speed": 1.5,
       "armor": 5,
@@ -1193,11 +1194,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Spirit",
-      "class": ["Warlock"]
+      "classes": ["Warlock"]
     },
     {
       "name": "Light Spirit",
-      "PV": 950,
+      "pv": 950,
       "atk": 90,
       "atk_speed": 1.1,
       "armor": 8,
@@ -1206,11 +1207,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Spirit",
-      "class": ["Priest"]
+      "classes": ["Priest"]
     },
     {
       "name": "Good of Thunder",
-      "PV": 950,
+      "pv": 950,
       "atk": 60,
       "atk_speed": 1.4,
       "armor": 0,
@@ -1219,11 +1220,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Divinity",
-      "class": ["Mage"]
+      "classes": ["Mage"]
     },
     {
       "name": "Khan",
-      "PV": 1000,
+      "pv": 1000,
       "atk": 115,
       "atk_speed": 1.3,
       "armor": 10,
@@ -1232,11 +1233,11 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": ["Divinity", "Horn"],
-      "class": ["Druid"]
+      "classes": ["Druid"]
     },
     {
       "name": "Soul Blade",
-      "PV": 1200,
+      "pv": 1200,
       "atk": 105,
       "atk_speed": 1.0,
       "armor": 10,
@@ -1245,7 +1246,7 @@ json = {
       "player_damage":2,
       "cost":5,
       "race": "Soul Clan",
-      "class": ["Witcher"]
+      "classes": ["Witcher"]
     }
 
   ]

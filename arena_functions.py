@@ -19,7 +19,7 @@ import pydirectinput
 def get_round(image: ImageGrab.Image) -> str:
     """Gets the current game round"""
     n_round = image.crop(screen_coords.ROUND_POS.get_coords())
-    game_round = get_text_from_image(image=n_round)
+    game_round = get_text_from_image(image=n_round, whitelist=ROUND_WHITELIST)
     return game_round
 
 def get_level_image(image: ImageGrab.Image):
@@ -55,6 +55,10 @@ def get_own_health(image: ImageGrab.Image) -> int:
 def get_gold(image: ImageGrab.Image) -> int:
     gold_image = image.crop(screen_coords.GOLD_POS.get_coords())
     gold = get_text_from_image(gold_image)
+    try:
+        gold = int(gold)
+    except:
+        gold = 4
     return gold
 
 
